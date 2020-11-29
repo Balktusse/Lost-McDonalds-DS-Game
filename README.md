@@ -1,2 +1,2 @@
-# Lost-McDonald-s-DS-Game
+# Lost-McDonalds-DS-Game
 This is a Lost Game for the Nintendo DS. It was made for McDonald's in japan to train new people. The name of this Game is eCDP  and is a eCrew development program. Read the Text document named "ReadMe" to get started. You need the .nds file and the .sav file. the nds file is the ROM and the sav file is for the password provided in the text file to work. If you use DeSMUMe emulator you click file and then import backup memory. then you open the sav file and check "Auto(from imported save data size)" And then you can enjoy this game!
